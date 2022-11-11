@@ -1,5 +1,6 @@
 # TODO: get usernames
 # TODO: scan for any haikus instead of just checking if full text is valid haiku
+# TODO: botify to post tweets of found haikus in tweets
 
 from syllablecount import count_syllables
 from string import punctuation
